@@ -1,2 +1,2 @@
-# botdemusica-js
-tentei fazer meu bot de musica mas ele nao toca.
+# botdemusica
+ ainda nao 100% funcionando, apenas toca por url
